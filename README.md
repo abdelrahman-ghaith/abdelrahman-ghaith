@@ -20,10 +20,7 @@
 
 ---
 
-### 📈 GitHub Stats
-![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman-ghaith&show_icons=true&theme=radial)
-
----
 
 ### 📫 Connect with Me
 - **GitHub:** [@abdelrahman-ghaith](https://github.com/abdelrahman-ghaith)
+email:a.mohamed2583@nu.edu.eg
